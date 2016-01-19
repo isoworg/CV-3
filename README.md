@@ -2,7 +2,7 @@
 
 I am an avid bridge player and an enthusiastic junior developer who likes building applications with intuitive user stories, encapsulated code and comprehensive testing. I successfully completed <a href="http://www.makersacademy.com" target="_blank">Makers Academy</a>, a 12 week intensive coding bootcamp, on 13 November 2015.
 
-I am currently looking for a role as a junior developer at an organization that cares about clean-code, testing, team-work and building great software.
+I am currently looking for a role as a junior developer at an organization that cares about clean-code, testing, teamwork and building great software.
 
 ##Skills
 
@@ -24,9 +24,14 @@ I learn from my mistakes. In my previous role I was keen to take on business-fac
 ##Volunteer Work
 I really love the idea of open source software where everyone has a common goal - to contribute and give back to the community. In my previous role, binding contracts and non-disclosure agreements were the status quo and it is really great to see that the technology industry is a place where sharing and giving back are seen as virtues rather than blockers.
 
-* <a href="http://www.agileventures.org/" target="_blank">Agile Ventures</a>
-  * Volunteer software developer: I am currently contributing to the development of a website for Voluntary Action Harrow, a non-profit organisation.
+* <a href="http://www.agileventures.org/" target="_blank">Agile Ventures</a> (November 2015 - Present)
+  * Volunteer Software Developer: I am currently contributing to the development of a website for Voluntary Action Harrow, a non-profit organisation
   * Daily stand-ups, Ruby on Rails, Cucumber, Rspec
+
+
+* <a href="http://www.codebar.io/" target="_blank">CodeBar</a> (January 2016 - Present)
+  * Volunteer Coach: encouraging underrepresented groups to learn programming
+  * HTML, CSS, JavaScript, Ruby, Git(VCS)
 
 ## Education
 
