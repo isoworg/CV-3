@@ -22,7 +22,7 @@ My time at Makers Academy consisted of pair-programming and learning about best 
 
 * <b><a href="https://github.com/zsid/chitter-challenge" target="_blank">Chitter</a></b>: A twitter clone built with Ruby and Sinatra, and tested with Rspec and Capybara.
 
-* <b><a href="https://github.com/zsid/clothing_retailer" target="_blank">Clothing retailer</a></b>: A responsive website for a clothing retailer, built using AngularJS, Karma, Protractor.
+* <b><a href="https://github.com/zsid/todo_challenge" target="_blank">To do</a></b>: A to-do list application built in AngularJS and tested with Karma and Protractor.
 
 * <b><a href="https://github.com/zsid/instagram-challenge" target="_blank">Instagram</a></b>: A clone of Instagram built using Ruby on Rails, PostgreSQL, Rspec and Capybara.
 
