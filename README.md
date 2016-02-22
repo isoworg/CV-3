@@ -1,20 +1,20 @@
 ##Zhivko Siderov
 
-I am an avid bridge player and an enthusiastic junior developer who likes building applications with intuitive user stories, encapsulated code and comprehensive testing. I successfully completed <a href="http://www.makersacademy.com" target="_blank">Makers Academy</a>, a 12 week intensive coding bootcamp, on 13 November 2015.
+I am an avid bridge player and an enthusiastic junior developer who likes building applications with intuitive user stories, encapsulated code and comprehensive testing. I successfully completed <a href="http://www.makersacademy.com" target="_blank">Makers Academy</a>, a 12 week intensive coding bootcamp, in November 2015.
 
 I am currently looking for a role as a junior developer at an organization that cares about clean-code, testing, teamwork and building great software.
 
 ##Volunteer Work
 I really love the idea of open source software where everyone has a common goal - to contribute and give back to the community. In my previous role, binding contracts and non-disclosure agreements were the status quo and it is really great to see that the technology industry is a place where sharing and giving back are seen as virtues rather than blockers.
 
+* <b><a href="http://www.codebar.io/" target="_blank">CodeBar</a> (January 2016 - Present)</b>
+  * Coach: encouraging underrepresented groups to learn programming
+  * HTML, CSS, JavaScript, jQuery, AJAX, Ruby, Git(VCS)
+
+
 * <b><a href="http://www.agileventures.org/" target="_blank">Agile Ventures</a> (November 2015 - Present)</b>
   * Software Developer: I am currently contributing to the development of a website for Voluntary Action Harrow, a non-profit organisation
   * Daily stand-ups, Ruby on Rails, Cucumber, Rspec
-
-
-* <b><a href="http://www.codebar.io/" target="_blank">CodeBar</a> (January 2016 - Present)</b>
-  * Coach: encouraging underrepresented groups to learn programming
-  * HTML, CSS, JavaScript, Ruby, Git(VCS)
 
 ##Selected Projects
 
@@ -22,7 +22,7 @@ My time at Makers Academy consisted of pair-programming and learning about best 
 
 * <b><a href="https://github.com/zsid/chitter-challenge" target="_blank">Chitter</a></b>: A twitter clone built with Ruby and Sinatra, and tested with Rspec and Capybara.
 
-* <b><a href="https://github.com/zsid/todo_challenge" target="_blank">To do</a></b>: To do list application built in AngularJS and tested with Karma and Protractor.
+* <b><a href="https://github.com/zsid/clothing_retailer" target="_blank">Clothing retailer</a></b>: A responsive website for a clothing retailer, built using AngularJS, Karma, Protractor.
 
 * <b><a href="https://github.com/zsid/instagram-challenge" target="_blank">Instagram</a></b>: A clone of Instagram built using Ruby on Rails, PostgreSQL, Rspec and Capybara.
 
